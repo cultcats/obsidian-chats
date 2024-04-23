@@ -1,5 +1,5 @@
 import { Plugin } from 'obsidian';
-import { Dialog } from "./dialogs";
+import { Dialog } from "./chat";
 
 interface Settings {
     // Settings should be defined here, if there are any
